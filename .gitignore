@@ -30,6 +30,7 @@ build/*
 logs/*
 
 # sbt specific
+sbt
 target/
 project/boot
 lib_managed/*
